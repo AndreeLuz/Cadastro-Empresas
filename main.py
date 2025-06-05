@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from PIL import Image, ImageTk
 from fake_db import salvar_empresa
 
 def tela_boas_vindas():
